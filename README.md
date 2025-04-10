@@ -19,7 +19,7 @@ Welcome to the official repository for **NourTool.py**, a script designed for **
 ### **On Linux**
 Run the following commands:
 ```bash
-git clone https://github.com/yourusername/NourTool.git
+git clone https://github.com/AskalSec/NourTool.git
 cd NourTool
 chmod +x NourTool.py
 python3 NourTool.py
@@ -33,7 +33,7 @@ pkg install python git
 ```
 Then, clone the repository and run the script:
 ```bash
-git clone https://github.com/yourusername/NourTool.git
+git clone https://github.com/AskalSec/NourTool.git
 cd NourTool
 chmod +x NourTool.py
 python NourTool.py
